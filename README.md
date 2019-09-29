@@ -15,7 +15,7 @@ Rasybury:- he had 2 answers missing in his questi*ons, but sill was occupying 73
 3. What does R think column 73’s data type is? Why do you think this is the case?
 R Thinks that column 73 is TRUE or FALSE a boolean value. This is the case because the column haf characters ‘T’ and ‘F’ only.
 
-![Personality graph](imgs/screenshot (6).png)
+![Personality Bar graph](https://raw.githubusercontent.com/harshnagarkar/MBTI-R-Analysis/master/imgs/Screenshot%20(6).png?token=AHG5YUWNDEHA62YO2K2XZ5K5TE2OC)
 
 Personality Analysis:-
 
@@ -39,12 +39,12 @@ Stat Should be equal to ‘identity’ inorder to view the heights of bars in da
 10. Include the plot in your write-up and answer questions about the results  Which answer, A or B, seems to be the more popular answer among the 70 questions? 
 	Answer ‘A’ seems more popular than ‘B’
 
-![A,B bar plot](imgs/screenshot (5).png)
+![A,B bar plot](https://raw.githubusercontent.com/harshnagarkar/MBTI-R-Analysis/master/imgs/Screenshot%20(5).png?token=AHG5YUSOEFIUYHPHWNXNBUK5TE3GU)
 
 11. Which two questions were answered the same by almost the entire class (all but 2 people)?  
 	Question number 14 and 20.
 
-![Bar plot for all question](imgs/screenshot (4).png)
+![Bar plot for all question](https://raw.githubusercontent.com/harshnagarkar/MBTI-R-Analysis/master/imgs/Screenshot%20(4).png?token=AHG5YUUH3VQ7N6B7HXHMTHS5TE3LO)
 12. What are the two questions from the Myers Briggs test (give the question text)?  Did you answer these two questions with the majority or the minority of the class?
 I questions are 14 and 20 then I answered them with majority.
 	
